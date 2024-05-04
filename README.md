@@ -1,4 +1,6 @@
-### Hi there 👋
+[Q:](https://github.com/wesbos/dad-jokes) What did the server say to his client who was having a bad day?
+
+A: Everything's going to be 200
 
 <!--
 **Safewaan/Safewaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
